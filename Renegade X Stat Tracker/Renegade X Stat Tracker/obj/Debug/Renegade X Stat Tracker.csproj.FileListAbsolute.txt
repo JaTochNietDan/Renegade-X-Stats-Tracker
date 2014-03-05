@@ -1,0 +1,6 @@
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\bin\Debug\Renegade X Stat Tracker.exe.config
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\bin\Debug\Renegade X Stat Tracker.exe
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\bin\Debug\Renegade X Stat Tracker.pdb
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\obj\Debug\Renegade X Stat Tracker.csprojResolveAssemblyReference.cache
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\obj\Debug\Renegade X Stat Tracker.exe
+c:\users\robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\Renegade X Stat Tracker\obj\Debug\Renegade X Stat Tracker.pdb
