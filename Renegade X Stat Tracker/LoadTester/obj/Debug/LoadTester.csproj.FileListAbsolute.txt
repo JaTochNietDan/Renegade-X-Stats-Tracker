@@ -1,6 +1,0 @@
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\bin\Debug\LoadTester.exe.config
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\bin\Debug\LoadTester.exe
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\bin\Debug\LoadTester.pdb
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\obj\Debug\LoadTester.exe
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\obj\Debug\LoadTester.pdb
-C:\Users\Robert\dropbox\backups\my documents\visual studio 2013\Projects\Renegade X Stat Tracker\LoadTester\obj\Debug\LoadTester.csprojResolveAssemblyReference.cache
